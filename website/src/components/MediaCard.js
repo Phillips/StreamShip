@@ -1,9 +1,10 @@
 import React from "react";
-import { Card, Icon, Image, Transition } from "semantic-ui-react";
+import { Card, Image } from "semantic-ui-react";
+import Netflix from "../img/netflix.webp"
 
 function MediaCard({ movie: { image, url, name } }) {
   return (
-    <Card fluid href={url} target="_blank">
+    <Card fluid color="orange" href={url} target="_blank">
       <Image src={image} wrapped ui={false} />
       <Card.Content>
         <Card.Header>{name}</Card.Header>
@@ -15,10 +16,7 @@ function MediaCard({ movie: { image, url, name } }) {
         </Card.Description>
       </Card.Content>
       <Card.Content extra>
-        <a>
-          <Icon name="user" />
-          22 Friends
-        </a>
+      <Image src={ Netflix } size='mini' rounded />
       </Card.Content>
     </Card>
   );
