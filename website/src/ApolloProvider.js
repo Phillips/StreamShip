@@ -9,7 +9,6 @@ const client = new ApolloClient({
     link: new HttpLink({
       uri: 'https://streamship.herokuapp.com/v1/graphql',
       headers: {
-        'x-hasura-admin-secret':''
       }
     }),
     cache: new InMemoryCache(),
