@@ -10,6 +10,16 @@ const GET_NETFLIX_MOVIES = gql`
       image
       name
       url
+      provider
+      year
+      rating
+      duration
+      genre
+      description
+      cast
+      imdb_score
+      rotten_tomatoes_score
+      metacritic_score
     }
   }
 `;
@@ -19,8 +29,11 @@ function Movies() {
   if (data) {
     console.log(data);
   }
+  else if(error){
+    console.log(error)
+  }
   return (
-    <Grid columns={3}>
+    <div class="ui stackable three column grid">
       <Grid.Row>
         {loading ? (
           <Loader active inline="centered" size="big">
@@ -35,7 +48,7 @@ function Movies() {
           ))
         )}
       </Grid.Row>
-    </Grid>
+    </div>
   );
 }
 

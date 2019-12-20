@@ -8,13 +8,11 @@ netflix_movies_query = """mutation {{
   insert_netflix_movies(objects:{0},
 		  on_conflict: {{
 			  constraint: netflix_movies_pkey,
-			  update_columns: [url, image]
+			  update_columns: [url, image, year, rating, duration, genre, description, cast, imdb_score, rotten_tomatoes_score, metacritic_score]
 			}}
 	){{
     returning{{
       name
-      url
-      image
     }}
   }}
 }}
@@ -30,13 +28,11 @@ netflix_movies_query_single = """mutation {{
 		  ],
 		  on_conflict: {{
 			  constraint: netflix_movies_pkey,
-			  update_columns: [url, image]
+			  update_columns: [url, image, year, rating, duration, genre, description, cast, imdb_score, rotten_tomatoes_score, metacritic_score]
 			}}
 	){{
     returning{{
       name
-      url
-      image
     }}
   }}
 }}

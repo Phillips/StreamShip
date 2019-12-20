@@ -1,7 +1,7 @@
 import React from "react";
 import gql from "graphql-tag";
 import { useQuery } from "@apollo/react-hooks";
-import { Grid, Loader, Dimmer, Input, Menu } from "semantic-ui-react";
+import { Grid, Loader } from "semantic-ui-react";
 import MediaCard from "../components/MediaCard";
 
 const GET_NETFLIX_TV_SHOWS = gql`
@@ -10,6 +10,16 @@ const GET_NETFLIX_TV_SHOWS = gql`
       image
       name
       url
+      provider
+      year
+      rating
+      duration
+      genre
+      description
+      cast
+      imdb_score
+      rotten_tomatoes_score
+      metacritic_score
     }
   }
 `;
@@ -18,6 +28,9 @@ function TVShows() {
   const { loading, error, data } = useQuery(GET_NETFLIX_TV_SHOWS);
   if (data) {
     console.log(data);
+  }
+  else if(error){
+    console.log(error)
   }
   return (
     <Grid columns={3}>
