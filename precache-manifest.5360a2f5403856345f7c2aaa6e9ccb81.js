@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0eae590db32490d06296c48bb3910dfb",
+    "revision": "d31f41bcc2eb802b785c4b45f22da8ed",
     "url": "/streamship/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/streamship/static/css/2.07def1dc.chunk.css"
   },
   {
-    "revision": "dd44b3bf0ac90e6f44ac",
+    "revision": "fa11dd5592b61bb40d2d",
     "url": "/streamship/static/css/main.c0b15692.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/streamship/static/js/2.af2bcf65.chunk.js"
   },
   {
-    "revision": "dd44b3bf0ac90e6f44ac",
-    "url": "/streamship/static/js/main.0462fef3.chunk.js"
+    "revision": "fa11dd5592b61bb40d2d",
+    "url": "/streamship/static/js/main.aee28f77.chunk.js"
   },
   {
     "revision": "5ab3687a6f3d36b1474f",
