@@ -29,7 +29,7 @@ function MenuBar() {
         active={activeItem === "TV Shows"}
         onClick={handleItemClick}
         as={Link}
-        to="/tvshows"
+        to=""
       />
       <Menu.Menu position="right">
       <Menu.Item>

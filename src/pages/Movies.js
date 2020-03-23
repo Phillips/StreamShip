@@ -33,7 +33,7 @@ function Movies() {
     console.log(error)
   }
   return (
-    <div class="ui stackable three column grid">
+    <Grid columns={3}>
       <Grid.Row>
         {loading ? (
           <Loader active inline="centered" size="big">
@@ -48,7 +48,7 @@ function Movies() {
           ))
         )}
       </Grid.Row>
-    </div>
+    </Grid>
   );
 }
 
