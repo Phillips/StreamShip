@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/StreamShip/static/css/main.c0b15692.chunk.css",
-    "main.js": "/StreamShip/static/js/main.2c080587.chunk.js",
-    "main.js.map": "/StreamShip/static/js/main.2c080587.chunk.js.map",
+    "main.js": "/StreamShip/static/js/main.48d8adc3.chunk.js",
+    "main.js.map": "/StreamShip/static/js/main.48d8adc3.chunk.js.map",
     "runtime-main.js": "/StreamShip/static/js/runtime-main.2fad65d5.js",
     "runtime-main.js.map": "/StreamShip/static/js/runtime-main.2fad65d5.js.map",
     "static/css/2.dc84c0cd.chunk.css": "/StreamShip/static/css/2.dc84c0cd.chunk.css",
     "static/js/2.5158df13.chunk.js": "/StreamShip/static/js/2.5158df13.chunk.js",
     "static/js/2.5158df13.chunk.js.map": "/StreamShip/static/js/2.5158df13.chunk.js.map",
     "index.html": "/StreamShip/index.html",
-    "precache-manifest.6f76246531a7435f65a35dbf788573c5.js": "/StreamShip/precache-manifest.6f76246531a7435f65a35dbf788573c5.js",
+    "precache-manifest.6412a93f827e2f26cae01fde3f8bf16f.js": "/StreamShip/precache-manifest.6412a93f827e2f26cae01fde3f8bf16f.js",
     "service-worker.js": "/StreamShip/service-worker.js",
     "static/css/2.dc84c0cd.chunk.css.map": "/StreamShip/static/css/2.dc84c0cd.chunk.css.map",
     "static/css/main.c0b15692.chunk.css.map": "/StreamShip/static/css/main.c0b15692.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.dc84c0cd.chunk.css",
     "static/js/2.5158df13.chunk.js",
     "static/css/main.c0b15692.chunk.css",
-    "static/js/main.2c080587.chunk.js"
+    "static/js/main.48d8adc3.chunk.js"
   ]
 }
