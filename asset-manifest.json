@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/StreamShip/static/css/main.c0b15692.chunk.css",
-    "main.js": "/StreamShip/static/js/main.9af0743b.chunk.js",
-    "main.js.map": "/StreamShip/static/js/main.9af0743b.chunk.js.map",
-    "runtime-main.js": "/StreamShip/static/js/runtime-main.bbf37ab0.js",
-    "runtime-main.js.map": "/StreamShip/static/js/runtime-main.bbf37ab0.js.map",
-    "static/css/2.3e4ace84.chunk.css": "/StreamShip/static/css/2.3e4ace84.chunk.css",
-    "static/js/2.af2bcf65.chunk.js": "/StreamShip/static/js/2.af2bcf65.chunk.js",
-    "static/js/2.af2bcf65.chunk.js.map": "/StreamShip/static/js/2.af2bcf65.chunk.js.map",
-    "index.html": "/StreamShip/index.html",
-    "precache-manifest.a47eff33411250808a12549d1bd07f51.js": "/StreamShip/precache-manifest.a47eff33411250808a12549d1bd07f51.js",
-    "service-worker.js": "/StreamShip/service-worker.js",
-    "static/css/2.3e4ace84.chunk.css.map": "/StreamShip/static/css/2.3e4ace84.chunk.css.map",
-    "static/css/main.c0b15692.chunk.css.map": "/StreamShip/static/css/main.c0b15692.chunk.css.map",
-    "static/media/semantic.min.css": "/StreamShip/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/netflix.webp": "/StreamShip/static/media/netflix.5827529b.webp",
-    "static/media/tomatometer-fresh.svg": "/StreamShip/static/media/tomatometer-fresh.149b5e8a.svg",
-    "static/media/tomatometer-rotten.svg": "/StreamShip/static/media/tomatometer-rotten.f1ef4f02.svg"
+    "main.css": "/streamship/static/css/main.c0b15692.chunk.css",
+    "main.js": "/streamship/static/js/main.dbf23d88.chunk.js",
+    "main.js.map": "/streamship/static/js/main.dbf23d88.chunk.js.map",
+    "runtime-main.js": "/streamship/static/js/runtime-main.6c2073b4.js",
+    "runtime-main.js.map": "/streamship/static/js/runtime-main.6c2073b4.js.map",
+    "static/css/2.8d1f40ed.chunk.css": "/streamship/static/css/2.8d1f40ed.chunk.css",
+    "static/js/2.5158df13.chunk.js": "/streamship/static/js/2.5158df13.chunk.js",
+    "static/js/2.5158df13.chunk.js.map": "/streamship/static/js/2.5158df13.chunk.js.map",
+    "index.html": "/streamship/index.html",
+    "precache-manifest.209e34f7b2fd6c3ed307ae0fde2ec7f2.js": "/streamship/precache-manifest.209e34f7b2fd6c3ed307ae0fde2ec7f2.js",
+    "service-worker.js": "/streamship/service-worker.js",
+    "static/css/2.8d1f40ed.chunk.css.map": "/streamship/static/css/2.8d1f40ed.chunk.css.map",
+    "static/css/main.c0b15692.chunk.css.map": "/streamship/static/css/main.c0b15692.chunk.css.map",
+    "static/media/semantic.min.css": "/streamship/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/netflix.webp": "/streamship/static/media/netflix.5827529b.webp",
+    "static/media/tomatometer-fresh.svg": "/streamship/static/media/tomatometer-fresh.149b5e8a.svg",
+    "static/media/tomatometer-rotten.svg": "/streamship/static/media/tomatometer-rotten.f1ef4f02.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bbf37ab0.js",
-    "static/css/2.3e4ace84.chunk.css",
-    "static/js/2.af2bcf65.chunk.js",
+    "static/js/runtime-main.6c2073b4.js",
+    "static/css/2.8d1f40ed.chunk.css",
+    "static/js/2.5158df13.chunk.js",
     "static/css/main.c0b15692.chunk.css",
-    "static/js/main.9af0743b.chunk.js"
+    "static/js/main.dbf23d88.chunk.js"
   ]
 }
