@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Container>
         <MenuBar />
-        <Route exact path="/" component={Movies} />
+        <Route exact path="" component={Movies} />
         <Route exact path="/tvshows" component={TVShows} />
       </Container>
     </Router>
