@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/streamship/static/css/main.c0b15692.chunk.css",
-    "main.js": "/streamship/static/js/main.aee28f77.chunk.js",
-    "main.js.map": "/streamship/static/js/main.aee28f77.chunk.js.map",
-    "runtime-main.js": "/streamship/static/js/runtime-main.87cb0780.js",
-    "runtime-main.js.map": "/streamship/static/js/runtime-main.87cb0780.js.map",
-    "static/css/2.07def1dc.chunk.css": "/streamship/static/css/2.07def1dc.chunk.css",
-    "static/js/2.af2bcf65.chunk.js": "/streamship/static/js/2.af2bcf65.chunk.js",
-    "static/js/2.af2bcf65.chunk.js.map": "/streamship/static/js/2.af2bcf65.chunk.js.map",
+    "main.js": "/streamship/static/js/main.dbf23d88.chunk.js",
+    "main.js.map": "/streamship/static/js/main.dbf23d88.chunk.js.map",
+    "runtime-main.js": "/streamship/static/js/runtime-main.6c2073b4.js",
+    "runtime-main.js.map": "/streamship/static/js/runtime-main.6c2073b4.js.map",
+    "static/css/2.8d1f40ed.chunk.css": "/streamship/static/css/2.8d1f40ed.chunk.css",
+    "static/js/2.5158df13.chunk.js": "/streamship/static/js/2.5158df13.chunk.js",
+    "static/js/2.5158df13.chunk.js.map": "/streamship/static/js/2.5158df13.chunk.js.map",
     "index.html": "/streamship/index.html",
-    "precache-manifest.5360a2f5403856345f7c2aaa6e9ccb81.js": "/streamship/precache-manifest.5360a2f5403856345f7c2aaa6e9ccb81.js",
+    "precache-manifest.209e34f7b2fd6c3ed307ae0fde2ec7f2.js": "/streamship/precache-manifest.209e34f7b2fd6c3ed307ae0fde2ec7f2.js",
     "service-worker.js": "/streamship/service-worker.js",
-    "static/css/2.07def1dc.chunk.css.map": "/streamship/static/css/2.07def1dc.chunk.css.map",
+    "static/css/2.8d1f40ed.chunk.css.map": "/streamship/static/css/2.8d1f40ed.chunk.css.map",
     "static/css/main.c0b15692.chunk.css.map": "/streamship/static/css/main.c0b15692.chunk.css.map",
     "static/media/semantic.min.css": "/streamship/static/media/outline-icons.ef60a4f6.woff",
     "static/media/netflix.webp": "/streamship/static/media/netflix.5827529b.webp",
@@ -19,10 +19,10 @@
     "static/media/tomatometer-rotten.svg": "/streamship/static/media/tomatometer-rotten.f1ef4f02.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87cb0780.js",
-    "static/css/2.07def1dc.chunk.css",
-    "static/js/2.af2bcf65.chunk.js",
+    "static/js/runtime-main.6c2073b4.js",
+    "static/css/2.8d1f40ed.chunk.css",
+    "static/js/2.5158df13.chunk.js",
     "static/css/main.c0b15692.chunk.css",
-    "static/js/main.aee28f77.chunk.js"
+    "static/js/main.dbf23d88.chunk.js"
   ]
 }
