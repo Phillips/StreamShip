@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af864b5583dc1871a4562436514c52f1",
+    "revision": "029245e5bdb1989daa64287f2e7095d1",
     "url": "/StreamShip/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StreamShip/static/css/2.dc84c0cd.chunk.css"
   },
   {
-    "revision": "0ebb6eecd3b96c32faf1",
+    "revision": "e0fcfd3b9d506f9e655d",
     "url": "/StreamShip/static/css/main.c0b15692.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StreamShip/static/js/2.5158df13.chunk.js"
   },
   {
-    "revision": "0ebb6eecd3b96c32faf1",
-    "url": "/StreamShip/static/js/main.2c080587.chunk.js"
+    "revision": "e0fcfd3b9d506f9e655d",
+    "url": "/StreamShip/static/js/main.48d8adc3.chunk.js"
   },
   {
     "revision": "4f7ac36c819dea61b1cc",
